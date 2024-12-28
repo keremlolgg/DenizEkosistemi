@@ -1,0 +1,91 @@
+{
+  "Diller": {
+    "diller": ["Türkçe", "English"]
+  },
+  "Veriler": {
+    "sikayet": {
+      "Türkçe": "Uygulama ile ilgili şikayet veya önerilerini e-posta üzerinden ulaştırabilirsiniz",
+      "English": "You can send your complaints or suggestions about the application via email."
+    },
+    "uygpaylas": {
+      "Türkçe": "Uygulamayı Paylaş",
+      "English": "Share the App"
+    },
+    "davetpromt": {
+      "Türkçe": "Deniz Ekosistemi İçin Davet Edildiniz. https://github.com/keremlolgg/DenizEkosistemi",
+      "English": "You have been invited to Deniz Ekosistemi. https://github.com/keremlolgg/DenizEkosistemi"
+    },
+    "websitemurl": {
+      "Türkçe": "https://keremkk.can.re",
+      "English": "https://keremkk.can.re"
+    },
+    "hatabildir": {
+      "Türkçe": "Hata Bildir",
+      "English": "Report an Error"
+    },
+    "hatabildirurl": {
+      "Türkçe": "report@keremkk.can.re",
+      "English": "report@keremkk.can.re"
+    },
+    "yapimci": {
+      "Türkçe": "Yapımcı: Kerem Kuyucu",
+      "English": "Developer: Kerem Kuyucu"
+    },
+    "yapimcimetin": {
+      "Türkçe": "Yapımcıya ulaşmak için",
+      "English": "To contact the developer"
+    },
+    "yenisurum": {
+      "Türkçe": "Yeni Sürüm Var",
+      "English": "New Version Available"
+    },
+    "indir": {
+      "Türkçe": "Lütfen uygulamayı tekrar indirerek güncelleyiniz.",
+      "English": "Please update by downloading the app again."
+    },
+    "red": {
+      "Türkçe": "Şimdi Değil",
+      "English": "Not Now"
+    },
+    "onay": {
+      "Türkçe": "Siteye Git",
+      "English": "Go to the Website"
+    },
+    "ayarlar": {
+      "Türkçe": "Ayarlar",
+      "English": "Settings"
+    },
+    "secilendil": {
+      "Türkçe": "Seçilen Dil: Türkçe",
+      "English": "Selected Language: English"
+    },
+    "digerayarlar": {
+      "Türkçe": "Diğer Ayarlar",
+      "English": "Other Settings"
+    },
+    "secilentema": {
+      "Türkçe": "Seçilen Tema: ",
+      "English": "Selected Theme: "
+    },
+    "navigasyonbar1": {
+      "Türkçe": "Menü",
+      "English": "Menu"
+    },
+    "navigasyonbar2": {
+      "Türkçe": "Ülkeler",
+      "English": "Countries"
+    },
+    "navigasyonbar3": {
+      "Türkçe": "Ayarlar",
+      "English": "Settings"
+    },
+    "appbaslik": {
+      "Türkçe": "Deniz Ekosistemi",
+      "English": "Marine Ecosystem"
+    },
+    "appicerik": {
+      "Türkçe": "aciklama eklencek",
+      "English": "ingilizce aciklama eklencek"
+    }
+  }
+}

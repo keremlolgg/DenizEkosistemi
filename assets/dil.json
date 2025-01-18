@@ -15,17 +15,9 @@
       "Türkçe": "Deniz Ekosistemi İçin Davet Edildiniz. https://github.com/keremlolgg/DenizEkosistemi",
       "English": "You have been invited to Deniz Ekosistemi. https://github.com/keremlolgg/DenizEkosistemi"
     },
-    "websitemurl": {
-      "Türkçe": "https://keremkk.can.re",
-      "English": "https://keremkk.can.re"
-    },
     "hatabildir": {
       "Türkçe": "Hata Bildir",
       "English": "Report an Error"
-    },
-    "hatabildirurl": {
-      "Türkçe": "report@keremkk.can.re",
-      "English": "report@keremkk.can.re"
     },
     "yapimci": {
       "Türkçe": "Yapımcı: Kerem Kuyucu",
@@ -50,6 +42,14 @@
     "onay": {
       "Türkçe": "Siteye Git",
       "English": "Go to the Website"
+    },
+    "kurallar": {
+      "Türkçe": "Kurallar",
+      "English": "Rules"
+    },
+    "tamam": {
+      "Türkçe": "Tamam",
+      "English": "Okay"
     },
     "ayarlar": {
       "Türkçe": "Ayarlar",
@@ -79,13 +79,29 @@
       "Türkçe": "Ayarlar",
       "English": "Settings"
     },
-    "appbaslik": {
+    "deniztitle": {
       "Türkçe": "Deniz Ekosistemi",
       "English": "Marine Ecosystem"
     },
-    "appicerik": {
-      "Türkçe": "aciklama eklencek",
-      "English": "ingilizce aciklama eklencek"
+    "denizdescription": {
+      "Türkçe": "Dünya üzerindeki plankton yoğunluğunu inceleyin.",
+      "English": "Examine the density of plankton on Earth."
+    },
+    "denizkural1": {
+      "Türkçe": "Deniz Ekosistemi Simülasyonu",
+      "English": "Marine Ecosystem Simulation"
+    },
+    "denizkural2": {
+      "Türkçe": "Deniz ekosistemindeki çevresel faktörlerin fitoplankton üzerindeki etkilerini analiz edin.\nAmacınız, bu faktörlerin etkilerini değerlendirerek ekolojik dengeyi korumaktır.",
+      "English": "Analyze the impact of environmental factors on phytoplankton in the marine ecosystem.\nYour goal is to evaluate these effects and maintain ecological balance."
+    },
+    "denizkural3": {
+      "Türkçe": "Simülasyon Kuralları: Faktörler, fitoplankton yoğunluğunu artırabilir veya azaltabilir.\nNitrat ve demir pozitif etkiye sahiptir. pH ve CO2 negatif etki gösterir. Tuzluluk nötrdür.",
+      "English": "Simulation Rules: Factors can increase or decrease phytoplankton concentration.\nNitrate and iron have positive effects. pH and CO2 show negative effects. Salinity is neutral."
+    },
+    "denizbaslik": {
+      "Türkçe": "Deniz Ekosistemi",
+      "English": "Marine Ecosystem"
     }
   }
 }

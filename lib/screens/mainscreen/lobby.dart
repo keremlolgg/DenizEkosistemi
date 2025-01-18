@@ -157,7 +157,7 @@ class _GeoGameLobiState extends State<GeoGameLobi> {
       Yenitur();
       Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => App1()),
+        MaterialPageRoute(builder: (context) => Denizekosistem()),
       );
     }
   }
@@ -166,7 +166,7 @@ class _GeoGameLobiState extends State<GeoGameLobi> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          Yazi.get('appbaslik'),
+          Yazi.get('deniztitle'),
           style: TextStyle(
             color: Colors.purple,
           ),
@@ -204,7 +204,7 @@ class _GeoGameLobiState extends State<GeoGameLobi> {
                       ClipRRect(
                         borderRadius: BorderRadius.circular(8.0),
                         child: Image.asset(
-                          'assets/logo.png',
+                          'assets/menu.jpg',
                           width: 100,
                           height: 100,
                           fit: BoxFit.cover,
@@ -216,7 +216,7 @@ class _GeoGameLobiState extends State<GeoGameLobi> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              Yazi.get('appbaslik'),
+                              Yazi.get('deniztitle'),
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
@@ -224,7 +224,7 @@ class _GeoGameLobiState extends State<GeoGameLobi> {
                             ),
                             SizedBox(height: 8),
                             Text(
-                              Yazi.get('appicerik'),
+                              Yazi.get('denizdescription'),
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.grey[700],
